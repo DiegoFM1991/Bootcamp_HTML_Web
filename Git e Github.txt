@@ -1,0 +1,24 @@
+1 - No terminal do windows (cmd) os comando para navegar e listas as pastas são:
+
+	1 - dir - para listar todos os diretórios (pastas)
+	2 - cd + nome da pasta - para entrar na pasta
+	3 - cd .. para voltar para pasta anterior
+	4 - mkdir - para criar uma pasta
+	5 - echo hello > hello.txt
+	6 - del + nome da pasta - para deletar ARQUIVOS dentro de uma pasta
+	7 - rmdir + nome da pasta - para apagar a PASTA e os arquivos internos dela.
+
+
+2 - cls - para limpar o terminal
+
+3 - Como o GIT funciona por baixo dos panos
+	
+	1 - SHA1 - pega o arquivo e embaralha de uma forma específica.
+	2 - Existe esse SHA1 em qualquer arquivo dentro de um commit, ou seja, qualquer alteração havida no arquivo dentro do commit, altera toda uma sequência de SHA1.
+	3 - Desde COMMIT, TREE, BLOB, e diante.
+
+4 - Chave SSH
+
+	1 - Transformar uma máquina local como um lugar seguro ao Github.
+	2 - Permite que faça commits sem nem mesmo colocar senha, pois já reconhece a máquina como confiável
+	3 - 
