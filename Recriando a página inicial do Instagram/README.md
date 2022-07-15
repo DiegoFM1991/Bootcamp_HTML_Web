@@ -1,4 +1,4 @@
-<h1>Recriando a página inicial do Instagram</h1>
+<h2>Recriando a página inicial do Instagram</h2>
  
 <h3>Neste projeto utilizei HTML5 + CSS3 para recriar a tela de login do Instagram.</h3>
 O grande diferencial do projeto está no uso pragmático da tecnologia Flexbox, permitindo que todos os containers correlatos à página fiquem perfeitamente alinhados como no original.
