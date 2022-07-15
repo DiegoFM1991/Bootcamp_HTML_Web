@@ -1,0 +1,1 @@
+﻿# Neste projeto, utilizei HTML5 + CSS3 para recriar a tela de login do Instagram. O grande diferencial do projeto está no uso pragmático da tecnologia Flexbox, permitindo que todos os containers correlatos à página fiquem perfeitamente alinhados como no original. #
