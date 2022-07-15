@@ -20,5 +20,4 @@
 4 - Chave SSH
 
 	1 - Transformar uma máquina local como um lugar seguro ao Github.
-	2 - Permite que faça commits sem nem mesmo colocar senha, pois já reconhece a máquina como confiável
-	3 - 
+	2 - Permite que faça commits sem nem mesmo colocar senha, pois já reconhece a máquina como confiável.
