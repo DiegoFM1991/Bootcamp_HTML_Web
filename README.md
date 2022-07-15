@@ -1,4 +1,4 @@
-# Bootcamp_HTML_Web_DioME
+# Bootcamp_HTML_Web
 
 Repositório para conteúdos do Bootcamp_HTML_Web da Dio.me
 
