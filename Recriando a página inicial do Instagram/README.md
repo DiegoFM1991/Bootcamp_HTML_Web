@@ -6,7 +6,7 @@ O grande diferencial do projeto está no uso pragmático da tecnologia Flexbox, 
 <p>
 <img align="center" alt="Diegofm1991-HTML" height="85" width="85" src="https://hermes.digitalinnovation.one/tracks/3a10fc52-7df0-4d38-9d9c-e98f1e5f6c9a.png">
 
-<img align="center" alt="Diegofm1991-HTML" height="85" width="85" src="https://cdn-icons-png.flaticon.com/512/87/87390.png">
+<img align="center" alt="Diegofm1991-HTML" height="85" width="85" src="https://img.freepik.com/vetores-premium/icone-do-instagram-de-logotipo-moderno-em-fundo-branco_578229-126.jpg?w=2000">
 
 <img align="center" alt="Diegofm1991-HTML" height="85" width="85" src="https://hermes.digitalinnovation.one/tracks/3a10fc52-7df0-4d38-9d9c-e98f1e5f6c9a.png">
 </p>
